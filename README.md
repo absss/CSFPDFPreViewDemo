@@ -1,6 +1,6 @@
 # CSFPDFPreViewDemo
 
-本地PDF文件预览，WKWebView貌似不支持本地的pdf文件预览，所以需要自己写一个pdf文件预览
+本地PDF文件预览，WKWebView貌似不支持本地的pdf文件预览，所以需要自己写一个pdf文件预览，如果觉得有用，点个star吧！
 
 效果图如下：
 
